@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Thomas Zhao's Blog
-tagline: Make the Web Better
+title:  东岸往事's Blog
 ---
 {% include JB/setup %}
 
